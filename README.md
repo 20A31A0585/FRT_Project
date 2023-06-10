@@ -20,9 +20,15 @@ Here we have provided information on senior-friendly exercise routines, dietary 
 
 ![2023-06-10 (11)](https://github.com/20A31A0585/FRT_Project/assets/109898908/7965f7aa-d956-4e35-8533-83825d2be97d)
 
-### Social Connection Resources![Screenshot (123)](https://github.com/20A31A0585/FRT_Project/assets/109906715/eb29ac0f-2f81-4422-bb19-d8e527f6e1d8)
+### Social Connection Resources
 
-### Dietary Guidelines ![Screenshot (122)](https://github.com/20A31A0585/FRT_Project/assets/109906715/7c64edae-fa02-4cfa-822b-a8ef0b5a31d1)
+![Screenshot (123)](https://github.com/20A31A0585/FRT_Project/assets/109906715/eb29ac0f-2f81-4422-bb19-d8e527f6e1d8)
 
-### chatBot ![Screenshot (124)](https://github.com/20A31A0585/FRT_Project/assets/109906715/1bce29b7-96fa-42a6-89c9-7bb8c52c2867)
+### Dietary Guidelines 
+
+![Screenshot (122)](https://github.com/20A31A0585/FRT_Project/assets/109906715/7c64edae-fa02-4cfa-822b-a8ef0b5a31d1)
+
+### chatBot 
+
+![Screenshot (124)](https://github.com/20A31A0585/FRT_Project/assets/109906715/1bce29b7-96fa-42a6-89c9-7bb8c52c2867)
 
