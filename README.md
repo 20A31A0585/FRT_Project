@@ -1,6 +1,6 @@
 # FRT : Future Ready Talent Project
 
-In this Project we have created a website on HOLISTIC WELLNESS FOR SENIORS using azure services, a chatbot and a static web app.
+In this Project we have created a website on *HOLISTIC WELLNESS FOR SENIORS* using azure services, a chatbot and a static web app.
 ---
 Here we have provided information on senior-friendly exercise routines, dietary guidelines, cognitive stimulation activities, and social connection resources. We have utilized Azure services to implement a user-friendly interface and ensure the website is accessible for seniors with different abilities.
 ---
